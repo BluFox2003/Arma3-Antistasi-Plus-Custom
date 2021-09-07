@@ -13,7 +13,7 @@ class CfgDiscordRichPresence
     defaultDetails="";
     defaultState="";
     defaultLargeImageKey="altis";
-    defaultLargeImageText="Antistasi Plus Custom - Altis";
+    defaultLargeImageText="Antistasi Plus Custom";
     defaultSmallImageKey="arma_3_logo";
     defaultSmallImageText="Arma 3 Custom Scenario";
     useTimeElapsed=1;
