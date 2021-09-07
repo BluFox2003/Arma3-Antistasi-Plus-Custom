@@ -469,7 +469,7 @@ _sfLoadoutData setVariable ["GLsidearms", [
 /////////////////////////////////
 
 private _militaryLoadoutData = _loadoutData call _fnc_copyLoadoutData;
-_militaryLoadoutData setVariable ["uniforms", ["rhs_uniform_acu_oefcp", "rhs_uniform_acu_ocp", "U_B_CombatUniform_mcam", "UK3CB_ADM_B_U_CombatUniform_01_MAR_DES", "UK3CB_ADM_B_U_CombatUniform_01_MAR", "UK3CB_ADM_B_U_CombatUniform_Shortsleeve_01_MAR", "UK3CB_ADM_B_U_CombatUniform_Shortsleeve_01_MAR_DES", "UK3CB_BAF_U_Smock_MTP", "UK3CB_BAF_U_CombatUniform_MTP", "UK3CB_BAF_U_CombatUniform_MTP_RM", "UK3CB_BAF_U_CombatUniform_MTP_ShortSleeve", "U_B_CombatUniform_mcam_worn"]];
+_militaryLoadoutData setVariable ["uniforms", ["rhs_uniform_acu_oefcp", "rhs_uniform_acu_ocp", "U_B_CombatUniform_mcam", "UK3CB_ADM_B_U_CombatUniform_01_MAR", "UK3CB_ADM_B_U_CombatUniform_Shortsleeve_01_MAR", "UK3CB_ADM_B_U_CombatUniform_Shortsleeve_01_MAR_DES", "UK3CB_BAF_U_Smock_MTP", "UK3CB_BAF_U_CombatUniform_MTP", "UK3CB_BAF_U_CombatUniform_MTP_RM", "UK3CB_BAF_U_CombatUniform_MTP_ShortSleeve", "U_B_CombatUniform_mcam_worn"]];
 _militaryLoadoutData setVariable ["vests", ["rhsusf_spcs_ocp_rifleman_alt", "rhsusf_spcs_ocp_rifleman", "UK3CB_BAF_V_Osprey_Rifleman_A", "UK3CB_BAF_V_Osprey_Rifleman_B", "UK3CB_BAF_V_Osprey_Rifleman_C", "rhsusf_iotv_ocp_Rifleman"]];
 _militaryLoadoutData setVariable ["MGvests", ["rhsusf_spcs_ocp_saw", "rhsusf_spcs_ocp_machinegunner", "rhsusf_iotv_ocp_SAW", "V_PlateCarrierSpec_mtp", "UK3CB_BAF_V_Osprey_MG_A", "UK3CB_BAF_V_Osprey_MG_B"]];
 _militaryLoadoutData setVariable ["MEDvests", ["rhsusf_spcs_ocp_medic", "rhsusf_iotv_ocp_Medic", "UK3CB_BAF_V_Osprey_Medic_B", "UK3CB_BAF_V_Osprey_Medic_D"]];
@@ -697,7 +697,7 @@ _militaryLoadoutData setVariable ["machineGuns", [
 
 ["rhs_weap_m249_pip", "", "", "rhsusf_acc_ELCAN", ["rhsusf_200Rnd_556x45_mixed_soft_pouch", "rhsusf_200Rnd_556x45_mixed_soft_pouch", "rhsusf_100Rnd_556x45_M995_soft_pouch"], [], "rhsusf_acc_saw_bipod"],
 ["rhs_weap_m240G", "", "", "rhsusf_acc_ELCAN", ["rhsusf_100Rnd_762x51_m80a1epr", "rhsusf_100Rnd_762x51_m61_ap", "rhsusf_100Rnd_762x51_m62_tracer"], [], ""],
-["rhs_weap_m240G", "", "", "rhsusf_acc_anpas13gv1", ["rhsusf_100Rnd_762x51_m80a1epr", "rhsusf_100Rnd_762x51_m61_ap", "rhsusf_100Rnd_762x51_m62_tracer"], [], ""],
+
 
 ["UK3CB_M60", "", "", "", ["150Rnd_762x51_Box", "150Rnd_762x51_Box_Tracer", "UK3CB_BAF_762_200Rnd", "UK3CB_BAF_762_200Rnd_T", "rhsusf_100Rnd_762x51_m80a1epr"], [], ""],
 
@@ -779,7 +779,7 @@ _militaryLoadoutData setVariable ["sidearms", [
 ["hgun_Pistol_heavy_01_green_F", "muzzle_snds_acp", "acc_flashlight_pistol", "optic_MRD_black", [], [], ""],
 ["hgun_Pistol_heavy_01_F", "", "acc_flashlight_pistol", "", [], [], ""],
 ["hgun_P07_F", "", "", "", [], [], ""],
-["rhs_weap_m1911a1"],
+["rhsusf_weap_m1911a1"],
 ["hgun_ACPC2_F", "", "acc_flashlight_pistol", "", [], [], ""],
 ["rhsusf_weap_m9", "", "", "", ["rhsusf_mag_15Rnd_9x19_FMJ", "rhsusf_mag_15Rnd_9x19_JHP"], [], ""]
 ]];
