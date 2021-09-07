@@ -2,7 +2,7 @@
   <h1>Antistasi Plus</h1>
   <p>
         Antistasi Plus is a fork version of Antistasi mission by Official Antistasi Community.
-    <b>
+    <br>
         Antistasi Plus Custom is a fork version of Antistasi Plus by Socrates.
   </p>
 </div>
