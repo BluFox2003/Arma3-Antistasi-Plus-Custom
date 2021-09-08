@@ -119,12 +119,12 @@
 
 
 private _initialRebelEquipment = [
-"rhs_weap_m3a1", "rhs_weap_m38","UK3CB_Sten",
+"rhs_weap_m3a1", "rhs_weap_m38","UK3CB_Sten", "rhs_weap_m1garand_sa43",
 "rhs_weap_type94_new","rhs_weap_tt33","rhs_weap_Izh18","rhs_weap_kar98k", "UK3CB_Enfield",
 "rhs_weap_panzerfaust60",
 "UK3CB_Sten_34Rnd_Magazine","UK3CB_Sten_34Rnd_Magazine_RT", "UK3CB_Enfield_10rnd_Mag", "UK3CB_Enfield_10rnd_Mag_RT",
 "rhs_mag_6x8mm_mhp","rhs_mag_762x25_8","rhsgref_1Rnd_00Buck","rhsgref_1Rnd_Slug","rhsgref_5Rnd_792x57_kar98k",
-"rhsgref_mag_rkg3em",
+"rhsgref_mag_rkg3em", "rhsgref_8Rnd_762x63_M2B_M1rifle",
 "rhsgref_30rnd_1143x23_M1911B_SMG", "rhsgref_30rnd_1143x23_M1T_SMG",
 "rhsgref_5Rnd_762x54_m38",
 "rhs_grenade_nbhgr39_mag", "rhs_grenade_sthgr24_mag", "rhs_grenade_sthgr43_mag",
