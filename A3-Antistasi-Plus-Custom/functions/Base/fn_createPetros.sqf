@@ -30,6 +30,7 @@ if (petros == leader _groupPetros) then {
 	petros disableAI "MOVE";
 	petros disableAI "AUTOTARGET";
 	petros setBehaviour "SAFE";
+	petros setRank "LIEUTENANT";
 	[Petros,"mission"] remoteExec ["A3A_fnc_flagaction",[teamPlayer,civilian]]
 } else {
 	[Petros,"buildHQ"] remoteExec ["A3A_fnc_flagaction",[teamPlayer,civilian]]
